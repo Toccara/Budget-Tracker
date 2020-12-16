@@ -3,11 +3,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url(budget.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
   }
   
   button, input {
     font-size: 100%;
-    font-family: Arial;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   table {
