@@ -16,13 +16,13 @@ body {
   }
   
   td, th {
-    border: 1px solid #512d92;
+    border: 1px solid #19063b;
     text-align: left;
     padding: 8px;
   }
   
   tr:nth-child(even) {
-    background-color: #512d92;
+    background-color: #19063b;
   }
   
   .error {
